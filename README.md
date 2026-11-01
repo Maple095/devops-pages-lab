@@ -1,7 +1,7 @@
 # Hi, I'm LIN, GUAN-YU
 
 ## Recent activity
-<!--START_SECTION:activity-->
+
 1. 📝 Committed to master in [Maple095/activity-log](https://github.com/Maple095/activity-log/commit/e843fc4724fe38314020dc23d163f9fba5357298)
 2. 📝 Committed to master in [Maple095/activity-log](https://github.com/Maple095/activity-log/commit/ccb104cee747142967b2994ae76bc3a75b57f855)
 3. 📝 Committed to master in [Maple095/activity-log](https://github.com/Maple095/activity-log/commit/67f02bd85b417cd6497983d64f3c94686299127d)
